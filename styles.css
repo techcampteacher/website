@@ -1,3 +1,6 @@
+body {
+  background-color: #cfe0e8; /* sky palette */
+}
 .red {
   color: red;
 }
@@ -6,7 +9,7 @@
 }
 nav {
   padding: 30px;
-  background-color: #09c;
+  background-color: #87bdd8;
   position: sticky;
   top: 0;
   text-shadow: 1px 1px 0 #444;
@@ -15,7 +18,7 @@ nav a {
   color: white;
 }
 nav a:hover {
-  color: black;
+  color: #667292;
 }
 header {
   padding: 30px;
