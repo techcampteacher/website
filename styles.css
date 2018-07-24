@@ -1,5 +1,12 @@
 body {
   background-color: #cfe0e8; /* sky palette */
+  display: grid;
+  grid-template-areas:
+    'nav nav nav'
+    'header header header'
+    'aside main main';
+  grid-gap: 30px;
+  padding: 30px;
 }
 .red {
   color: red;
