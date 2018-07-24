@@ -6,3 +6,6 @@ body {
   background-size: cover;
   opacity: 0.3
 }
+ body * {
+   opacity: 1;
+}
