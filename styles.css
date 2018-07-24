@@ -4,6 +4,10 @@
 .center-text {
   text: center;
 }
+nav {
+  padding: 30px;
+  background-color: #ccc;
+}
 header {
   padding: 30px;
   height: 70%;
