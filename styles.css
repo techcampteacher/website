@@ -36,11 +36,18 @@ main {
   grid-gap: 30px;
   padding: 10px;
 }
+article {
+  grid-area: article;
+  padding: 30px;
+  background-color: white;
+}
 aside {
+  grid-area: aside;
   padding: 30px;
   background-color: #daebe8;
 }
 footer {
+  grid-area: footer;
   padding: 30px;
   background-color: #8d9db6;
 }
