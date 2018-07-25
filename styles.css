@@ -35,7 +35,7 @@ main {
     'aside article article'
     'aside footer footer';
   grid-gap: 30px;
-  padding: 10px;
+  padding-top: 15px;
 }
 article {
   grid-area: article;
