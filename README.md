@@ -37,3 +37,7 @@ My awesome wesbsite
 ### Choose colors from:
 1.	First link on google: html color palette
 2.	https://www.w3schools.com/colors/colors_palettes.asp
+
+### For those without email:
+1. Enter your name @spamhereplease.com
+2. Go to mailinator.com and enter your name to verify the email address
